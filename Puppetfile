@@ -61,6 +61,7 @@ github "xquartz",     "1.2.1"
 github "mongodb",     "1.3.4"
 github "iterm2",      "1.2.5"
 github "redis",       "3.1.0"
+github "zsh",         "1.0.0"
 github "puppet-ohmyzsh", "1.0.0", :repo => "erivello/puppet-ohmyzsh"
 
 # Optional/custom modules. There are tons available at

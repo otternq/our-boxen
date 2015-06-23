@@ -1,7 +1,8 @@
 class people::otternq {
-  include mongodb
+  # include mongodb
   include iterm2::dev
   include redis
+  include zsh
   include ohmyzsh
 
   $home     = "/Users/${::boxen_user}"
